@@ -1,0 +1,15 @@
+# Līdzigie risinājumi
+
+1. [Mindee](https://www.mindee.com/) - jaudīga OCR programmatūra un API orientēta platforma, kas palīdz izstrādātājiem automatizēt lietotņu darbplūsmas, standartizējot dokumentu apstrādes līmeni, izmantojot datu atpazīšanu pamatinformācijai, lietojot datorredzes un mašīnmācīšanās metodes.
+2. [Tipalti](https://tipalti.com/en-eu/) - finanšu automatizācijas platforma, kas optimizē uzņēmumu kreditoru parādu un maksājumu procesus, un, kā apgalvo kompānija, tā var samazināt manuālā darba noslodzi līdz pat 80 %.
+3. [Yoooz](https://www.getyooz.com/en-gb/) - uz mākoņtehnoloģiju balstīts debitoru parādu automatizācijas risinājums, kas izstrādāts, lai racionalizētu finanšu procesus. Tas piedāvā spēcīgas optiskās rakstzīmju atpazīšanas (OCR) iespējas, nodrošinot efektīvu rēķinu apstrādi un datu ieguvi.
+4. [HyperVerge](https://hyperverge.co/solutions/ocr-software/) - uzlabota mākslīgā intelekta pārbaudīta ID platforma, kuras mērķis ir nodrošināt optimālu klientu konversijas līmeni, līdz minimumam samazināt krāpšanu un izpildīt atbilstības prasības.
+5. [Docsumo](https://www.docsumo.com/) - piedāvā progresīvus risinājumus, lai optimizētu rēķinu apstrādi un transformētu finanšu operācijas. Docsumo piedāvā iepriekš apmācītu rēķinu apstrādes API. Tas samazina iestatīšanas laiku un pielāgojas dažādiem rēķinu formātiem.
+6. [Nanonets](https://nanonets.com/) - izmanto uzlabotu OCR un dziļo mācīšanos, lai iegūtu būtisku informāciju no nestrukturētiem tekstiem un dokumentiem.
+7. [Rossum](https://rossum.ai/?_gl=1%2A1phz9cf%2A_up%2AMQ..&gclid=Cj0KCQjwurS3BhCGARIsADdUH53MsPNiUYXo60qhY_rA5B5rZNIcSrrIohtQzufwGXpbkbMr9oTKXCIaAhubEALw_wcB) - automatizē visu transakciju dokumentu procesu no sākuma līdz galam, sākot no e-pastu lasīšanas un atbildēšanas uz tiem līdz dokumentu apstiprināšanai.
+8. [Docparser](https://docparser.com/) - identificē un iegūst datus no Word, PDF un attēlu dokumentiem, izmantojot zonu OCR tehnoloģiju, uzlabotu rakstu atpazīšanu un enkuru atslēgvārdu palīdzību.
+9. [Grooper](https://www.bisok.com/intelligent-document-processing/) - izsvērts dokumentu apstrādes un digitālo datu integrācijas risinājums, kas ļauj organizācijām iegūt jēgpilnu informāciju no papīra/elektroniskajiem dokumentiem un citiem nestrukturētu datu veidiem.
+10. [Spendconsole](https://www.spendconsole.ai/solutions/ai-invoice-ocr-software/) - ar mākslīgo intelektu aprīkota maksājumu automatizācijas programmatūra, kas optimizē rēķinu apstrādi, maksājumu veikšanu un finanšu darba plūsmu uzņēmumiem. Tā paredzēta dažādu nozaru finanšu komandām, kas vēlas automatizēt manuālus uzdevumus, novērst krāpšanu, pārvaldīt atbilstību un iegūt uz datiem balstītu ieskatu. 
+
+
+#### Komanda: _Artemijs Radionovs, Ilja Fonarevs, Aļģerts Kligulis, Alisa Mamikova, Daniels Tehanovičs, Alina Eksta_
