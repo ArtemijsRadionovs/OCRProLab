@@ -11,5 +11,19 @@
 9. [Grooper](https://www.bisok.com/intelligent-document-processing/) - izsvērts dokumentu apstrādes un digitālo datu integrācijas risinājums, kas ļauj organizācijām iegūt jēgpilnu informāciju no papīra/elektroniskajiem dokumentiem un citiem nestrukturētu datu veidiem.
 10. [Spendconsole](https://www.spendconsole.ai/solutions/ai-invoice-ocr-software/) - ar mākslīgo intelektu aprīkota maksājumu automatizācijas programmatūra, kas optimizē rēķinu apstrādi, maksājumu veikšanu un finanšu darba plūsmu uzņēmumiem. Tā paredzēta dažādu nozaru finanšu komandām, kas vēlas automatizēt manuālus uzdevumus, novērst krāpšanu, pārvaldīt atbilstību un iegūt uz datiem balstītu ieskatu. 
 
+# Lietotāju stāsti
+
+|Nr.|Lietotāju stāsti|Prioritāte|
+|---|----------------|----------|
+|1.|MVU vēlas saņemt atskaites par oglekļa emisijām, jo tas ļauj nodrošināt ilgtspējību.|Must have|
+|2.|MVU vēlas augšuplādēt savus rēķinus PDF formātā, jo tas ļauj programmai aprēķināt oglekļa emisijām un izveidot atskaiti.|Must have|
+|3.|MVU vēlas saglabāt atskaites uz sava konta, jo katram uzņēmumam ir nepieciešams redzēt tendenciju.|Must have|
+|4.|MVU vēlas aprēķinat kopējo emisiju skaitu vienam lietotājam, jo katram uzņēmumam ir savi rēķini.|Must have|
+|5.|MVU vēlas redzēt emisijas aprēķināšanas formulu, jo tas parāda aprēķina principu.|Should have|
+|6.|MVU vēlas ērto un vienkaršo lietotni, jo viņiem ir nepieciešami efektīvi veikt savu darbu.|Should have|
+|7.|MVU vēlas dalīties ar rezultātiem, izmantojot saiti, jo tas vienkaršo dokumentu pārsutīšanu.|Could have|
+|8.|MVU vēlas dalīt lejupielādētos pārskatus pa dažādiem departamentiem, jo tas parāda problematiskās vietas.|Could have|
+|9.|MVU vēlas sistēmā redzēt ielādēto dokumentu skaitītāju, jo tas palīdzēs veikt to uzskaiti un kontroli.|Would not have|
+|10.|MVU vēlas grafiskajā interfeisā apskatīt, cik balonus varētu uzpūst ar CO2 emisiju, jo tas uzskatāmi demonstrēs izdalīto gāzi.|Would not have|
 
 #### Komanda: _Artemijs Radionovs, Ilja Fonarevs, Aļģerts Kligulis, Alisa Mamikova, Daniels Tehanovičs, Alina Eksta_
