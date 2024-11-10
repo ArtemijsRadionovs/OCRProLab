@@ -40,7 +40,7 @@
 
 - HTML
 - CSS
-- JavaScript
+- React.js
 - Figma
 - Pārlūkprogramma (Chrome, Edge, Opera, Firefox, Safari, u.c.)
 - Dators
